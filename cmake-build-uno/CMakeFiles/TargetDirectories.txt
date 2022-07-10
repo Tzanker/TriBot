@@ -1,5 +1,0 @@
-C:/Users/tevaz/Documents/GitHub/TriBot/cmake-build-uno/CMakeFiles/Production.dir
-C:/Users/tevaz/Documents/GitHub/TriBot/cmake-build-uno/CMakeFiles/Debug.dir
-C:/Users/tevaz/Documents/GitHub/TriBot/cmake-build-uno/CMakeFiles/Z_DUMMY_TARGET.dir
-C:/Users/tevaz/Documents/GitHub/TriBot/cmake-build-uno/CMakeFiles/edit_cache.dir
-C:/Users/tevaz/Documents/GitHub/TriBot/cmake-build-uno/CMakeFiles/rebuild_cache.dir
